@@ -6,12 +6,12 @@ import org.springframework.cache.annotation.Cacheable;
 */
 @Service
 public class Calculator {
-	@Cacheable
+	@Cacheable("sum")
 	int sum(int a, int b){
 		return a+b;
 	}
 
-	@Cacheable
+	@Cacheable("dif")
 	int dif(int a, int b){
 		return a-b;
 	}
