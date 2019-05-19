@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.juht.calculator.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-16T16:11:31" hostname="minseong-900X3L" time="0.0">
+<testsuite name="com.juht.calculator.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-19T07:43:49" hostname="minseong-900X3L" time="0.0">
   <properties/>
   <testcase name="testDif" classname="com.juht.calculator.CalculatorTest" time="0.0"/>
   <testcase name="testSum" classname="com.juht.calculator.CalculatorTest" time="0.0"/>
